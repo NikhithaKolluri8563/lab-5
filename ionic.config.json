@@ -1,8 +1,9 @@
 {
-  "name": "lab-5",
+  "name": "ionic-local-notif",
   "app_id": "",
   "type": "ionic-angular",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "gulp": {}
   }
 }
